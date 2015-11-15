@@ -25,11 +25,17 @@
 
 ## Reference
 * [AWS Lambdaによるサーバレス
-アーキテクチャの基本に触れてみよう！-kintone & AWS ハンズオン祭り2015秋【B-2】-](https://www.slideshare.net/yamaryu0508b/kintone-caf-vol4-kintone-aws-api-gatewaylambdamachine-learning-52406500)（slideshare）
+アーキテクチャの基本に触れてみよう！-kintone & AWS ハンズオン祭り2015秋【B-2】-](http://www.slideshare.net/joyzojp/aws-lambdakintone-aws-2015-c2)（slideshare）
 * [Amazon Web Services](http://aws.amazon.com/jp/)
+* [AWS利用無料枠](http://aws.amazon.com/jp/free/)（[FAQ](http://aws.amazon.com/jp/free/faqs/)）
+* [AWS Lambda](https://aws.amazon.com/jp/lambda/)
+* [AWS Lambdaドキュメント](https://aws.amazon.com/jp/documentation/lambda/)
+* [Amazon API Gateway](https://aws.amazon.com/jp/api-gateway/)
+* [Amazon API Gatewayドキュメント](https://aws.amazon.com/jp/documentation/apigateway/)
+* [Backlog](http://www.backlog.jp/)
+* [Backlogを使いこなそう -Webhook-](http://www.backlog.jp/help/adminsguide/webhook-setting/userguide2493.html)
 * [kintone](https://kintone.cybozu.com/jp/)
 * [kintone API リファレンス](https://cybozudev.zendesk.com/hc/ja/categories/200147600)（cybozu.com developer network内）
 * [kintone JavaScript APIサンプル](https://cybozudev.zendesk.com/hc/ja/sections/200263970)（cybozu.com developer network内）
-* [AWS利用無料枠](http://aws.amazon.com/jp/free/)（[FAQ](http://aws.amazon.com/jp/free/faqs/)）
 * [kintone30日間無料お試し](https://kintone.cybozu.com/jp/trial/)
 * [kintone無償開発者ライセンス](https://cybozudev.zendesk.com/hc/ja/articles/200720464)
