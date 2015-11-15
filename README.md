@@ -21,7 +21,7 @@
 
 * **./Python/kintone-backlog.py**：Backlogで課題追加されたら、API Gateway経由でLambdaを起動し、kintoneアプリにレコード登録を行うLambda関数サンプルです。
 
-* **./Python/kintone-backlog.py**：`kintone-backlog.py`に日本語コメントを追加したサンプルです。Lambdaにインラインで貼ると文字化けしますので、今回は利用しません。
+* **./Python/kintone-backlog_with-comment.py**：`kintone-backlog.py`に日本語コメントを追加したサンプルです。Lambdaにインラインで貼ると文字化けしますので、今回は利用しません。
 
 ## Reference
 * [AWS Lambdaによるサーバレス
